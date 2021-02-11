@@ -1,2 +1,3 @@
 # python_structural_dynamics
-Python and Jupyter notebooks about Fundamentals of Engineering Structural Dynamics.
+Jupyter notebooks about Structural Dynamics.
+These codes were generated as part of the Udemy course: Fundamentals of Engineering Structural Dynamics with Python, dictated by Dr. Sean Carroll.
